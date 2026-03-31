@@ -1,2 +1,2 @@
-# CodeDeployGitHubDemo
-AWS CodeDeploy github demo
+# Growth School Assignments
+
